@@ -1,6 +1,6 @@
 // soy el equipo 4
 package com.example.retrofit2025
- 
+ //Somos el equipo de Camero
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
